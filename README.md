@@ -5,6 +5,7 @@ container.
 
 Simple NodeJS app that binds to all IPv4 addresses on 3000 that spits out some useful info when debugging container platforms
 
+`docker.pkg.github.com/imranh2/hello-world-debug-container/hello-world-debug:latest`
 
 Currently spits out to the client:
 
